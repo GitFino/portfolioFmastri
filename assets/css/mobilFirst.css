@@ -1,0 +1,7 @@
+/*Mobile First*/
+.cuerpoCompleto {
+    margin: 0 16px 0 16px;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+}

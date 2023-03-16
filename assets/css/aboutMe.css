@@ -1,0 +1,14 @@
+section.aboutMe {
+    background-color: #EAF2FD;
+}
+
+
+section.aboutMe div.about-container p {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+}
+
+section.aboutMe div.about-container img {
+    margin: 16px;
+}
